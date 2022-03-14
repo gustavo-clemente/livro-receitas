@@ -10,3 +10,4 @@ Esse projeto foi criado para estudo dos conceitos do Git
  - Strogonofe de frango
  - Pavê
  - Frango parmegiana
+ - Carne de panela
