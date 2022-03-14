@@ -8,3 +8,4 @@ Esse projeto foi criado para estudo dos conceitos do Git
 ## Receitas incluidas
 
  - Strogonofe de frango
+ - Pavê
